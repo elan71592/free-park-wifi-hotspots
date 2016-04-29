@@ -1,5 +1,6 @@
 class View
   def self.welcome
+    puts
     puts 'Welcome To The Free Park WiFi Hotspot Finder!'
     puts '============================================='
     puts
